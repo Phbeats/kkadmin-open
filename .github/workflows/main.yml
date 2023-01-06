@@ -1,5 +1,5 @@
 # workflow name
-name: kk-admin
+name: kkadmin-open
 
 # master branch on push, auto run
 on:
